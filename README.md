@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Shivam Mishra a B.Tech student focused on DSA and Web Development with a strong problem-solving mindset. I believe in consistent practice, clean code, and learning through real-world projects. Currently, building backend skills and preparing for industry-ready opportunities.
+My name is Shivam Mishra a B.Tech student focused on DSA and Web Development with a strong and quick witted problem-solving mindset. I believe in consistent practice, clean code, and learning through real-world projects. Currently, building backend skills and preparing for industry-ready opportunities.
 
 
 ## 🌐 Socials:
