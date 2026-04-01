@@ -49,7 +49,7 @@ const shivam = {
 ---
 
 <!-- GitHub Stats -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00D9FF&width=350&lines=GitHub+Stats+%F0%9F%93%8A" alt="GitHub Stats" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00D9FF&width=350&lines=GitHub+Stats+%F0%9F%93%8A" alt="GitHub Stats" /> -->
 
 <div align="center">
 
