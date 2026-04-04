@@ -66,19 +66,21 @@ const shivam = {
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Shivam22601)
-[![LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/Shivam22601?theme=dark&bgColor=1a1b27)](https://leetcode.com/Shivam22601)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06)](https://leetcode.com/u/Shivam22601/)
 
 <br/>
 
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Shivam22601&theme=dark)](https://leetcode.com/Shivam22601)
+<!-- LeetCode Medal Badge -->
+<a href="https://leetcode.com/u/Shivam22601/">
+  <img src="https://leetcode.com/medal/?showImg=0&id=8741977&isLevel=false" alt="LeetCode Medal" height="150" />
+</a>
 
-<br/>
+<br/><br/>
 
-[![CodeChef](https://img.shields.io/badge/CodeChef-%23B92B27.svg?style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/shivam22601)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Shivam22601)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/Shivam22601)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Shivam22601)
+<!-- LeetCode Stats Card - working URL -->
+<a href="https://leetcode.com/u/Shivam22601/">
+  <img src="https://leetcard.jacoblin.cool/Shivam22601?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+</a>
 
 </div>
 
@@ -233,18 +235,7 @@ const shivam = {
 
 ---
 
-<!-- Spotify Now Playing -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=1DB954&width=420&lines=Coding+Vibes+%F0%9F%8E%A7" alt="Spotify" />
-
-<div align="center">
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/Shivam22601)
-
-</div>
-
----
-
-<!-- Visitor Map / Fun Stats -->
+<!-- Fun Facts -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=7B2FBE&width=350&lines=Fun+Facts+About+Me+%F0%9F%8E%B2" alt="Fun" />
 
 ```javascript
@@ -271,22 +262,19 @@ while (alive) {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Shivam-Mishra)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Shivam22601)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06)](https://leetcode.com/u/Shivam22601/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rollex549)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishrashivam20197@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shivam22601)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://github.com/Shivam22601)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Shivam22601)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/Shivam22601)
 
 </div>
 
 ---
 
-<!-- Animated contribution calendar -->
+<!-- Animated tagline -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=💡+Open+to+internships+%7C+collabs+%7C+hackathons!;🚀+Building+something+awesome+every+day!;⭐+If+you+like+my+work%2C+star+my+repos!" alt="tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=620&lines=%F0%9F%92%A1+Open+to+internships+%7C+collabs+%7C+hackathons!;%F0%9F%9A%80+Building+something+awesome+every+day!;%E2%AD%90+If+you+like+my+work%2C+star+my+repos!" alt="tagline" />
 
 </div>
 
