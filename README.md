@@ -66,20 +66,13 @@ const shivam = {
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06)](https://leetcode.com/u/Shivam22601/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06)](https://leetcode.com/u/Shivam-mishra04/)
 
 <br/>
 
-<!-- LeetCode Medal Badge -->
-<a href="https://leetcode.com/u/Shivam22601/">
-  <img src="https://leetcode.com/medal/?showImg=0&id=8741977&isLevel=false" alt="LeetCode Medal" height="150" />
-</a>
-
-<br/><br/>
-
-<!-- LeetCode Stats Card - working URL -->
-<a href="https://leetcode.com/u/Shivam22601/">
-  <img src="https://leetcard.jacoblin.cool/Shivam22601?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+<!-- LeetCode Stats Card -->
+<a href="https://leetcode.com/u/Shivam-mishra04/">
+  <img src="https://leetcard.jacoblin.cool/Shivam-mishra04?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
 </a>
 
 </div>
@@ -103,11 +96,6 @@ const shivam = {
 
 <!-- Activity Graph -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shivam22601&theme=tokyo-night&hide_border=true&area=true&custom_title=Shivam's%20Contribution%20Graph)](https://github.com/Shivam22601)
-
-<br/>
-
-<!-- Trophies -->
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Shivam22601&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/Shivam22601)
 
 </div>
 
@@ -262,7 +250,7 @@ while (alive) {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Shivam-Mishra)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06)](https://leetcode.com/u/Shivam22601/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06)](https://leetcode.com/u/Shivam-mishra04/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rollex549)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishrashivam20197@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shivam22601)
