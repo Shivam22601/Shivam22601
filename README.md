@@ -217,7 +217,7 @@ const shivam = {
 
 - 🏅 **AWS Cloud Practitioner** — Amazon Web Services
 - 🏅 **Google Cloud Fundamentals** — Google
-- 🥇 **DSA Self-Paced** — GeeksForGeeks / LeetCode
+- 🥇 **DSA Self-Paced** — LeetCode
 - 🎓 **Full-Stack Web Development** — Ongoing
 - 🚀 **Open Source Contributor** — Always exploring!
 
