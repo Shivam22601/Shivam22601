@@ -219,6 +219,7 @@ const shivam = {
 - 🏅 **Google Cloud Fundamentals** — Google
 - 🥇 **DSA Self-Paced** — LeetCode
 - 🎓 **Full-Stack Web Development** — Ongoing
+- 🥇 **Got selected in top 20 among 2500 participants** — HACKXTREME (MICROSOFT)
 - 🚀 **Open Source Contributor** — Always exploring!
 
 ---
