@@ -82,13 +82,6 @@ const shivam = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ElonCoding&show_icons=true&hide_border=true&bg_color=0b0e1a&title_color=f0c040&icon_color=22d3ee&text_color=a78bfa&ring_color=f0c040" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElonCoding&layout=compact&hide_border=true&bg_color=0b0e1a&title_color=f0c040&text_color=a78bfa&langs_count=8" height="170"/>
-
-</div>
-<br/><br/>
-
 <img src="https://github-readme-stats.vercel.app/api?username=Shivam22601&show_icons=true&hide_border=true&bg_color=0b0e1a&title_color=f0c040&icon_color=22d3ee&text_color=a78bfa&ring_color=f0c040" height="170"/>
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam22601&layout=compact&hide_border=true&bg_color=0b0e1a&title_color=f0c040&text_color=a78bfa&langs_count=8" height="170"/>
