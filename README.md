@@ -101,7 +101,7 @@ const shivam = {
 
 <!-- Activity Graph -->
 ## `📈 Contribution Map`
-<div align="center">
+
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shivam22601&theme=tokyo-night&hide_border=true&area=true&custom_title=Shivam's%20Contribution%20Graph)](https://github.com/Shivam22601)
 
 </div>
