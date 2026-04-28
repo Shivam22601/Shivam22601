@@ -78,9 +78,16 @@ const shivam = {
 </div>
 
 ---
-<!-- git hub stats -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=FFA500&width=450&lines=GitHub Stats+%F0%9F%8F%86" alt="CP" />
+## `📊 GitHub Dashboard`
+
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ElonCoding&show_icons=true&hide_border=true&bg_color=0b0e1a&title_color=f0c040&icon_color=22d3ee&text_color=a78bfa&ring_color=f0c040" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElonCoding&layout=compact&hide_border=true&bg_color=0b0e1a&title_color=f0c040&text_color=a78bfa&langs_count=8" height="170"/>
+
+</div>
+<br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Shivam22601&show_icons=true&hide_border=true&bg_color=0b0e1a&title_color=f0c040&icon_color=22d3ee&text_color=a78bfa&ring_color=f0c040" height="170"/>
 &nbsp;
