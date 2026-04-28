@@ -80,12 +80,13 @@ const shivam = {
 ---
 
 <!-- GitHub Stats -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00D9FF&width=350&lines=GitHub+Stats+%F0%9F%93%8A" alt="GitHub Stats" />
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shivam22601&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shivam22601&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Shivam22601&show_icons=true&hide_border=true&bg_color=0b0e1a&title_color=f0c040&icon_color=22d3ee&text_color=a78bfa&ring_color=f0c040" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam22601&layout=compact&hide_border=true&bg_color=0b0e1a&title_color=f0c040&text_color=a78bfa&langs_count=8" height="170"/>
+
+</div>
 
 <br/><br/>
 
