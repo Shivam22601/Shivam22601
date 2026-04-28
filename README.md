@@ -170,7 +170,17 @@ const shivam = {
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
+---
 
+## `🧊 Profile Summary Card`
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElonCoding&theme=2077"/>
+
+</div>
+
+---
 <!-- DSA Progress Section -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=FFA500&width=400&lines=DSA+%26+Problem+Solving+%F0%9F%A7%A9" alt="DSA" />
 
