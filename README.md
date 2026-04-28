@@ -91,6 +91,7 @@ const shivam = {
 <br/><br/>
 
 <!-- Streak Stats -->
+## `🔥 GitHub Streak`
 <img width="70%" src="https://streak-stats.demolab.com?user=Shivam22601&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" />
 
 <br/><br/>
