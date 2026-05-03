@@ -83,9 +83,9 @@ const shivam = {
 <div align="center">
 	
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ElonCoding&show_icons=true&count_private=true&hide_border=true&bg_color=020617&title_color=facc15&icon_color=facc15&text_color=38bdf8&ring_color=facc15" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shivam22601&show_icons=true&count_private=true&hide_border=true&bg_color=020617&title_color=facc15&icon_color=facc15&text_color=38bdf8&ring_color=facc15" height="170"/>
   
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ElonCoding&layout=compact&hide_border=true&bg_color=020617&title_color=facc15&text_color=38bdf8&langs_count=8" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shivam22601&layout=compact&hide_border=true&bg_color=020617&title_color=facc15&text_color=38bdf8&langs_count=8" height="170"/>
 </div>
 </div>
 
