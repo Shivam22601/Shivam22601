@@ -207,6 +207,10 @@ const shivam = {
 </div>
 
 ---
+## `🏆 Github Trophies`
+![](https://github-profile-trophy.vercel.app/?username=Shivam22601&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
 
 <!-- Fun Facts / Quote Section -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=7B2FBE&width=350&lines=Dev+Quote+of+the+Day+%F0%9F%92%AD" alt="Quote" />
