@@ -30,7 +30,7 @@ const shivam = {
   mindset   : "Consistent practice + Clean code + Real-world projects",
   currently : "Building backend skills & preparing for industry 🚀",
   goal      : "Crack top-tier internship/placement 🎯",
-  hobbies   : ["Competitive Programming", "Open Source", "Building side projects"],
+  hobbies   : ["Competitive Programming", "Building side projects"],
   contact   : "mishrashivam20197@gmail.com"
 };
 ```
